@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "allowJs": true,
+    "noEmit": true,
+    "types": ["@solidjs/start/env"]
+  }
+}

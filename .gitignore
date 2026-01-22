@@ -1,0 +1,4 @@
+.netlify
+.output
+dist
+node_modules
